@@ -33,6 +33,4 @@
 
 ---
 
-<center>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Synthetic-Dev&count_private=true&theme=blueberry&hide_border=true&custom_title=Leon's%20Github%20stats" />
-</center>
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Synthetic-Dev&count_private=true&theme=blueberry&hide_border=true&custom_title=Leon's%20Github%20stats" />
