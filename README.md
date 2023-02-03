@@ -35,5 +35,7 @@
 
 <div align="center">
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Synthetic-Dev&count_private=true&theme=blueberry&hide_border=true&custom_title=Leon's%20Github%20stats" />
-<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synthetic-Dev&theme=blueberry&hide_border=true" />
+</div>
+<div align="center">
+<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synthetic-Dev&theme=transparent&hide_border=true" />
 </div>
