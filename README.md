@@ -7,4 +7,4 @@
 
 ---
 
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synthetic-Dev&count_private=true&theme=blueberry&hide_border=true&custom_title="Leon's Github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synthetic-Dev&count_private=true&theme=blueberry&hide_border=true&custom_title=Leon's%20Github%20stats)](https://github.com/anuraghazra/github-readme-stats)
