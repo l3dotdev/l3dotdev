@@ -1,8 +1,9 @@
-### Hi 👋, I'm Leon - aka SyntheticDev (Syn)
+### Hi 👋, I'm Leon
+I go by **SyntheticDev** online
 
-## I'm an Apprentice, Developer and Enthusiast!
+## I'm an Indie Maker, Developer and Space Enthusiast!
 - 🕓 I am currently working on **many things**!
-- 🎓 I am a Software Engineer Apprentice @ Sky
+- 🎓 I am a Software Engineer @ Sky
 - 💥 Fun Fact: I love space and rockets 🚀
 - 😁 Pronouns: He/Him
 
