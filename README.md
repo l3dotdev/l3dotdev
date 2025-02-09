@@ -1,5 +1,4 @@
 ### Hi 👋, I'm Leon
-I go by **SyntheticDev** online
 
 ## I'm an Indie Maker, Developer and Space Enthusiast!
 - 🕓 I am currently working on **many things**!
