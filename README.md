@@ -27,7 +27,7 @@
 <img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Synthetic-Dev/Synthetic-Dev/refs/heads/main/github-original-white.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l3dotdev/l3dotdev/refs/heads/main/github-original-white.svg" >
   <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
 </picture>
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />      
@@ -38,8 +38,8 @@
 ---
 
 <div align="center">
-  <img valign="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Synthetic-Dev&count_private=true&theme=transparent&hide_border=true&custom_title=Leon's%20Github%20stats" style="padding-riight:20px" />
-  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synthetic-Dev&theme=transparent&hide_border=true" />
+  <img valign="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=l3dotdev&count_private=true&theme=transparent&hide_border=true&custom_title=Leon's%20Github%20stats" style="padding-riight:20px" />
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3dotdev&theme=transparent&hide_border=true" />
 </div>
 <div align="center">
 </div>
