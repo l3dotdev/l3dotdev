@@ -4,7 +4,6 @@
 - 🕓 I am currently working on **many things**!
 - 🎓 I am a Software Engineer @ Sky
 - 💥 Fun Fact: I love space and rockets 🚀
-- 😁 Pronouns: He/Him
 
 ---
 
