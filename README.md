@@ -42,7 +42,7 @@
     <img valign="top" alt="Stats" src="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=default&custom_title=Leon's%20Github%20stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=dark" >
-    <img valign="top" alt="Langs" src="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=dark&layout=donut" >
+    <img valign="top" alt="Langs" src="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=default&layout=donut" />
   </picture>
 </div>
