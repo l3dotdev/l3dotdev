@@ -37,10 +37,12 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=dark&custom_title=Leon's%20Github%20stats" style="padding-right:20px;" >
-    <img valign="top" alt="Stats" src="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=default&custom_title=Leon's%20Github%20stats" style="padding-right:20px;" />
-  </picture>
+  <div style="padding-right:20px;padding-bottom:12px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=dark&custom_title=Leon's%20Github%20stats">
+      <img valign="top" alt="Stats" src="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=default&custom_title=Leon's%20Github%20stats" />
+    </picture>
+  </div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=dark" >
     <img valign="top" alt="Langs" src="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=default" />
