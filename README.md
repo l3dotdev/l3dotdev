@@ -37,9 +37,12 @@
 ---
 
 <div align="center">
-  <picture style="padding-right:40px">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=dark&custom_title=Leon's%20Github%20stats" >
-    <img valign="top" alt="Stats" src="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=default&custom_title=Leon's%20Github%20stats" />
+    <img valign="top" alt="Stats" src="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=default&custom_title=Leon's%20Github%20stats" style="padding-right:20px;" />
   </picture>
-  <img alt="Langs" src="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=transparent" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=dark" >
+    <img valign="top" alt="Langs" src="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=default" />
+  </picture>
 </div>
