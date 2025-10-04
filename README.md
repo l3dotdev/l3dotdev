@@ -37,6 +37,6 @@
 ---
 
 <div align="center">
-  <img valign="top" alt="Stats" src="https://github-readme-stats-red-nine-41.vercel.app/api?username=l3dotdev&count_private=true&theme=transparent&custom_title=Leon's%20Github%20stats&show_icons=true&show=prs_merged" />
-  <img valign="top" alt="Langs" src="https://github-readme-stats-red-nine-41.vercel.app/api/top-langs/?username=l3dotdev&theme=transparent&layout=donut" />
+  <img valign="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=l3dotdev&count_private=true&theme=transparent&custom_title=Leon's%20Github%20stats&show_icons=true&show=prs_merged" />
+  <img valign="top" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3dotdev&theme=transparent&layout=donut" />
 </div>
