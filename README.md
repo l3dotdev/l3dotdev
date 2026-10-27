@@ -13,6 +13,7 @@ I go by **Synth** online!
 ### Software
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Codex" title="Codex" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codex/codex-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" title="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img alt="Godot" title="Godot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />  
 
@@ -22,9 +23,9 @@ I go by **Synth** online!
 <img align="left" alt="Kubernetes" title="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;" />
 <img align="left" alt="k3s" title="k3s" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pulumi" title="Pulumi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" style="padding-right:10px;" />
-<picture>
+<picture style="padding-right:10px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l3dotdev/l3dotdev/refs/heads/main/github-original-white.svg">
-  <img align="left" alt="Github" title="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Github" title="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </picture>
 <img alt="Ubuntu" title="Linux/Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
