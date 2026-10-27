@@ -18,7 +18,9 @@ I go by **Synth** online!
 
 ### Infrastructure
 
-<img align="left" alt="AWS" title="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" title="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kubernetes" title="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;" />
+<img align="left" alt="k3s" title="k3s" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pulumi" title="Pulumi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" style="padding-right:10px;" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l3dotdev/l3dotdev/refs/heads/main/github-original-white.svg">
